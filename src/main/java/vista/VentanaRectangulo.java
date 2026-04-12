@@ -357,7 +357,7 @@ txtArea.setText("Rectángulo movido");
 double y2 = Double.parseDouble(txtY2.getText());
 
 controlador.escalar(x2, y2);
-
+//
 txtArea.setText("Rectángulo escalado");
     }//GEN-LAST:event_jButton3ActionPerformed
 
